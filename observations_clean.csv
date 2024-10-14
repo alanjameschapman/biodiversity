@@ -1474,7 +1474,7 @@ Arctium lappa,Yosemite National Park,142
 Arctium minus,Bryce National Park,208
 Arctium minus,Great Smoky Mountains National Park,139
 Arctium minus,Yellowstone National Park,489
-Arctium minus,Yosemite National Park,324
+Arctium minus,Yosemite National Park,162
 Arctoa fulvella,Bryce National Park,131
 Arctoa fulvella,Great Smoky Mountains National Park,62
 Arctoa fulvella,Yellowstone National Park,246
@@ -2449,7 +2449,7 @@ Botrychium simplex,Yellowstone National Park,516
 Botrychium simplex,Yosemite National Park,280
 Botrychium virginianum,Bryce National Park,160
 Botrychium virginianum,Great Smoky Mountains National Park,143
-Botrychium virginianum,Yellowstone National Park,464
+Botrychium virginianum,Yellowstone National Park,232
 Botrychium virginianum,Yosemite National Park,297
 Bouteloua gracilis,Bryce National Park,102
 Bouteloua gracilis,Great Smoky Mountains National Park,92
@@ -5005,7 +5005,7 @@ Chrysothamnus viscidiflorus var. viscidiflorus,Yellowstone National Park,277
 Chrysothamnus viscidiflorus var. viscidiflorus,Yosemite National Park,152
 Cichorium intybus,Bryce National Park,187
 Cichorium intybus,Great Smoky Mountains National Park,197
-Cichorium intybus,Yellowstone National Park,532
+Cichorium intybus,Yellowstone National Park,266
 Cichorium intybus,Yosemite National Park,297
 Cicuta douglasii,Bryce National Park,119
 Cicuta douglasii,Great Smoky Mountains National Park,91
@@ -7108,7 +7108,7 @@ Echinochloa colona,Great Smoky Mountains National Park,31
 Echinochloa colona,Yellowstone National Park,232
 Echinochloa colona,Yosemite National Park,156
 Echinochloa crus-galli,Bryce National Park,228
-Echinochloa crus-galli,Great Smoky Mountains National Park,124
+Echinochloa crus-galli,Great Smoky Mountains National Park,62
 Echinochloa crus-galli,Yellowstone National Park,489
 Echinochloa crus-galli,Yosemite National Park,331
 Echinochloa muricata var. muricata,Bryce National Park,143
@@ -7208,7 +7208,7 @@ Eleocharis obtusa,Great Smoky Mountains National Park,45
 Eleocharis obtusa,Yellowstone National Park,271
 Eleocharis obtusa,Yosemite National Park,165
 Eleocharis palustris,Bryce National Park,183
-Eleocharis palustris,Great Smoky Mountains National Park,124
+Eleocharis palustris,Great Smoky Mountains National Park,62
 Eleocharis palustris,Yellowstone National Park,518
 Eleocharis palustris,Yosemite National Park,299
 Eleocharis parishii,Bryce National Park,87
@@ -9595,7 +9595,7 @@ Herzogiella striatella,Bryce National Park,88
 Herzogiella striatella,Great Smoky Mountains National Park,63
 Herzogiella striatella,Yellowstone National Park,246
 Herzogiella striatella,Yosemite National Park,154
-Hesperis matronalis,Bryce National Park,248
+Hesperis matronalis,Bryce National Park,124
 Hesperis matronalis,Great Smoky Mountains National Park,151
 Hesperis matronalis,Yellowstone National Park,509
 Hesperis matronalis,Yosemite National Park,268
@@ -13052,7 +13052,7 @@ Monolopia major,Great Smoky Mountains National Park,101
 Monolopia major,Yellowstone National Park,240
 Monolopia major,Yosemite National Park,130
 Monotropa hypopithys,Bryce National Park,230
-Monotropa hypopithys,Great Smoky Mountains National Park,146
+Monotropa hypopithys,Great Smoky Mountains National Park,73
 Monotropa hypopithys,Yellowstone National Park,485
 Monotropa hypopithys,Yosemite National Park,277
 Monotropa uniflora,Bryce National Park,98
@@ -15368,7 +15368,7 @@ Plantago lanceolata,Great Smoky Mountains National Park,130
 Plantago lanceolata,Yellowstone National Park,524
 Plantago lanceolata,Yosemite National Park,255
 Plantago major,Bryce National Park,167
-Plantago major,Great Smoky Mountains National Park,180
+Plantago major,Great Smoky Mountains National Park,90
 Plantago major,Yellowstone National Park,511
 Plantago major,Yosemite National Park,270
 Plantago pusilla,Bryce National Park,68
@@ -15600,7 +15600,7 @@ Poa chapmaniana,Great Smoky Mountains National Park,61
 Poa chapmaniana,Yellowstone National Park,234
 Poa chapmaniana,Yosemite National Park,141
 Poa compressa,Bryce National Park,205
-Poa compressa,Great Smoky Mountains National Park,160
+Poa compressa,Great Smoky Mountains National Park,80
 Poa compressa,Yellowstone National Park,493
 Poa compressa,Yosemite National Park,245
 Poa cusickii,Bryce National Park,83
@@ -16378,7 +16378,7 @@ Potentilla nivea,Yosemite National Park,131
 Potentilla norvegica,Bryce National Park,221
 Potentilla norvegica,Great Smoky Mountains National Park,131
 Potentilla norvegica,Yellowstone National Park,480
-Potentilla norvegica,Yosemite National Park,296
+Potentilla norvegica,Yosemite National Park,148
 Potentilla ovina var. ovina,Bryce National Park,104
 Potentilla ovina var. ovina,Great Smoky Mountains National Park,56
 Potentilla ovina var. ovina,Yellowstone National Park,247
@@ -16464,7 +16464,7 @@ Protonotaria citrea,Great Smoky Mountains National Park,32
 Protonotaria citrea,Yellowstone National Park,230
 Protonotaria citrea,Yosemite National Park,108
 Prunella vulgaris,Bryce National Park,207
-Prunella vulgaris,Great Smoky Mountains National Park,150
+Prunella vulgaris,Great Smoky Mountains National Park,75
 Prunella vulgaris,Yellowstone National Park,500
 Prunella vulgaris,Yosemite National Park,333
 Prunus,Bryce National Park,124
@@ -17946,7 +17946,7 @@ Salix eriocephala,Yosemite National Park,155
 Salix exigua,Bryce National Park,188
 Salix exigua,Great Smoky Mountains National Park,116
 Salix exigua,Yellowstone National Park,488
-Salix exigua,Yosemite National Park,372
+Salix exigua,Yosemite National Park,186
 Salix farriae,Bryce National Park,108
 Salix farriae,Great Smoky Mountains National Park,64
 Salix farriae,Yellowstone National Park,266
@@ -19641,7 +19641,7 @@ Spilogale gracilis,Yellowstone National Park,240
 Spilogale gracilis,Yosemite National Park,113
 Spilogale putorius,Bryce National Park,188
 Spilogale putorius,Great Smoky Mountains National Park,160
-Spilogale putorius,Yellowstone National Park,512
+Spilogale putorius,Yellowstone National Park,256
 Spilogale putorius,Yosemite National Park,274
 Spinus lawrencei,Bryce National Park,111
 Spinus lawrencei,Great Smoky Mountains National Park,105
@@ -19973,7 +19973,7 @@ Streptanthus tortuosus var. tortuosus,Yellowstone National Park,237
 Streptanthus tortuosus var. tortuosus,Yosemite National Park,154
 Streptopelia decaocto,Bryce National Park,301
 Streptopelia decaocto,Great Smoky Mountains National Park,256
-Streptopelia decaocto,Yellowstone National Park,771
+Streptopelia decaocto,Yellowstone National Park,516
 Streptopelia decaocto,Yosemite National Park,457
 Streptopus amplexifolius,Bryce National Park,95
 Streptopus amplexifolius,Great Smoky Mountains National Park,73
@@ -20865,7 +20865,7 @@ Trifolium breweri,Yellowstone National Park,237
 Trifolium breweri,Yosemite National Park,117
 Trifolium campestre,Bryce National Park,191
 Trifolium campestre,Great Smoky Mountains National Park,139
-Trifolium campestre,Yellowstone National Park,478
+Trifolium campestre,Yellowstone National Park,239
 Trifolium campestre,Yosemite National Park,235
 Trifolium ciliolatum,Bryce National Park,115
 Trifolium ciliolatum,Great Smoky Mountains National Park,51
