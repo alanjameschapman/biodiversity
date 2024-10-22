@@ -1,0 +1,17 @@
+park_name,conservation_status,observations,total_observations,percentage
+Bryce National Park,Endangered,489,16099,3.04
+Bryce National Park,In Recovery,258,16099,1.6
+Bryce National Park,Species of Concern,14925,16099,92.71
+Bryce National Park,Threatened,427,16099,2.65
+Great Smoky Mountains National Park,Endangered,334,11177,2.99
+Great Smoky Mountains National Park,In Recovery,189,11177,1.69
+Great Smoky Mountains National Park,Species of Concern,10314,11177,92.28
+Great Smoky Mountains National Park,Threatened,340,11177,3.04
+Yellowstone National Park,Endangered,1228,38663,3.18
+Yellowstone National Park,In Recovery,559,38663,1.45
+Yellowstone National Park,Species of Concern,35789,38663,92.57
+Yellowstone National Park,Threatened,1087,38663,2.81
+Yosemite National Park,Endangered,747,23356,3.2
+Yosemite National Park,In Recovery,386,23356,1.65
+Yosemite National Park,Species of Concern,21551,23356,92.27
+Yosemite National Park,Threatened,672,23356,2.88
